@@ -1,5 +1,15 @@
+@font-face {
+  font-family: Norse-Bold;
+  src: url("../assets/fonts/Norse-Bold.otf");
+}
+
 :root {
   box-sizing: border-box;
+}
+
+p {
+  font-family: Norse-Bold;
+  font-size: 20px;
 }
 
 *,
